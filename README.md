@@ -1,6 +1,6 @@
 llama-Grapple
 =============
-A simple yet customizable grapple hook!
+A simple yet customizable grapple hook for Minecraft!
 
 Features
     Easily manage custom configurations for privileged, donating, or ranked players.
