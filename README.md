@@ -1,4 +1,4 @@
-llama-Grapple
+llama-Grapple 1.5 for Minecraft 1.8
 =============
 A simple yet customizable grapple hook for Minecraft!
 
